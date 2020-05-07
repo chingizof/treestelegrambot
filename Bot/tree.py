@@ -3,7 +3,7 @@ import parser
 from telebot import types
 
 #main variables
-TOKEN = "1162318027:AAFgFsPE3MmoVmLCFG5W3OZdUaiqb6ZhR_0"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 #handlers
